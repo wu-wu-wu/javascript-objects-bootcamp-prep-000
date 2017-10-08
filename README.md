@@ -20,8 +20,7 @@ In programming, structures like dictionaries are called "associative data struct
 in our dictionary analogy) and values (definitions in our dictionary analogy).
 
 In JavaScript, the barebones associative data structure is called an _object_. That means that in an object, you can look something up by its _key_ and get back its _value_ — just like in a dictionary. In fact, you might hear some people
-refer to objects as "dictionaries." We're going to call them "objects" because they're instances of JavaScript's
-capital-O `Object`.
+refer to objects as "dictionaries." We're going to call them "objects" because they're instances of JavaScript's capital-O `Object`.
 
 ## Creating Objects
 
