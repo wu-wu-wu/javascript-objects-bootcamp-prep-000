@@ -9,7 +9,6 @@
 + Iterate over key-value pairs in an object
 
 ## Intro
-
 When we run across a word that we don't know, we often consult a dictionary. A dictionary is, at its core, a list of
 words; below each word is a definition or set of definitions. If we know the word that we're looking for, we can just
 look it up in the dictionary and get all its information.
